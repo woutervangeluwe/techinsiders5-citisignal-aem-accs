@@ -25,7 +25,9 @@
       "form",
       "embed-adaptive-form",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "fiberoffer",
+      "brandconcierge"
     ]
   },
   {
@@ -443,10 +445,5 @@
       "wizard",
       "range"
     ]
-  },
-  {
-  "id": "brandconcierge",
-  "fields": []
   }
-
 ]
